@@ -8,6 +8,8 @@ The request of the project was:
 
 
 Project - Multimode (stream/packet) device file
+
+
 This specification relates to the implementation of a special device file that is accessible according to 
 FIFO style semantic (via open/close/read/write services). Any data segment that is posted to the stream associated 
 with the file is seen either as an independent data unit (a packet) or a portion of a unique stream.
