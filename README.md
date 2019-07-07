@@ -1,6 +1,6 @@
 # AOSV-Project
-White this code I created a linux driver for a multimode (stream/packet) device file, using linux modules. 
-This work was done as project of the exam Advanced Operating System and Virtualization, 
+Whit this code I have created a linux driver for a multimode (stream/packet) device file, using linux modules. 
+This work has been done as project for the exam "Advanced Operating System and Virtualization", 
 taken in the 2016 at University La Sapienza.
 
 
